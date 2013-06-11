@@ -1,0 +1,3 @@
+[submodule "pdf2htmlEX"]
+	path = pdf2htmlEX
+	url = git://github.com/coolwanglu/pdf2htmlEX.git
